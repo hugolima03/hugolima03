@@ -9,7 +9,7 @@ voltada para Front-End🌐
 ## Github Stats and Most used languages
 
 ![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugolima03&show_icons=true&theme=outrun)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugolima03&layout=compact&theme=outrun&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugolima03&layout=compact&theme=outrun&cache_seconds=1800&exclude_repo=BikcraftCMS&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills
 
